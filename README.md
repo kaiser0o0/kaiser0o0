@@ -40,9 +40,9 @@ Amacım, güvenli sistemler geliştirmek ve güvenlik araştırmalarında derinl
 
 ## 📊 GitHub İstatistikleri
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaiser-dot-exe&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaiser0o0&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiser-dot-exe&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiser0o0&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kaiser0o0&theme=tokyonight&hide_border=true)
 
