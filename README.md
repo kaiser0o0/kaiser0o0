@@ -4,7 +4,7 @@
 
 # 👋 Merhaba, ben Muhammet (Kaiser)
 
-> 💻 Siber güvenlik meraklısı • Java & Python geliştiricisi • Linux tutkunu
+> 💻 Siber güvenlik meraklısı • Java  geliştiricisi • Linux tutkunu
 
 ## 🧠 Hakkımda
 
