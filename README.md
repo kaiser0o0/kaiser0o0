@@ -43,17 +43,17 @@ Amacım, güvenli sistemler geliştirmek ve güvenlik araştırmalarında derinl
 <div align="center">
 
 <a href="https://github.com/kaiser0o0">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kaiser0o0&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&locale=tr" alt="Kaiser0o0 GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kaiser0o0&show_icons=true&count_private=true&theme=radical&hide_border=true&locale=tr" alt="Kaiser0o0 GitHub Stats" />
 </a>
 
 <a href="https://github.com/kaiser0o0">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiser0o0&layout=compact&theme=tokyonight&hide_border=true&locale=tr" alt="Top Langs" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiser0o0&layout=compact&theme=radical&hide_border=true&locale=tr" alt="Top Langs" />
 </a>
 
 <br/>
 
 <a href="https://github.com/kaiser0o0">
-  <img src="https://streak-stats.demolab.com?user=kaiser0o0&theme=tokyonight&hide_border=true&locale=tr" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=kaiser0o0&theme=radical&hide_border=true&locale=tr" alt="GitHub Streak" />
 </a>
 
 </div>
