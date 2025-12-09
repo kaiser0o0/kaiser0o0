@@ -76,16 +76,18 @@ me.say_hi()
 ## 📊 GitHub İstatistikleri
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiser0o0&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&locale=tr&include_all_commits=true" alt="Kaiser0o0 GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiser0o0&layout=compact&theme=tokyonight&hide_border=true&locale=tr" alt="Top Langs" />
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiser0o0&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&locale=tr&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiser0o0&layout=compact&theme=tokyonight&hide_border=true&locale=tr" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiser0o0&theme=tokyonight&hide_border=true&locale=tr" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiser0o0&theme=tokyonight&hide_border=true&locale=tr" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaiser0o0&theme=tokyo-night&hide_border=true&custom_title=Katkı%20Grafiği" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaiser0o0&theme=tokyo-night&hide_border=true&custom_title=Katkı%20Grafiği" />
 </div>
 
 ---
@@ -93,7 +95,7 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaiser0o0&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kaiser0o0&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
 
 ---
