@@ -156,7 +156,7 @@ print(kaiser.get_motto())
 
 <div align="center">
 
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=00ff41&labelColor=000000)](https://hackthebox.com)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=00ff41&labelColor=000000)](https://ctf.hackthebox.com/user/profile/987660)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=00ff41&labelColor=000000)]([https://tryhackme.com](https://tryhackme.com/p/Kaiser00))
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000)](https://leetcode.com/u/Kaiserdotexe/)
 
